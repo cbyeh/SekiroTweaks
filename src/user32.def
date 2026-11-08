@@ -1,0 +1,21 @@
+LIBRARY user32.dll
+EXPORTS
+EnumWindows
+GetWindowThreadProcessId
+IsWindowVisible
+GetWindow
+GetWindowLongPtrW
+SetWindowLongPtrW
+SetWindowPos
+GetWindowRect
+GetClientRect
+IsIconic
+MonitorFromWindow
+GetMonitorInfoW
+GetForegroundWindow
+GetAsyncKeyState
+SetWindowsHookExW
+CallNextHookEx
+GetMessageW
+AdjustWindowRectEx
+wsprintfA

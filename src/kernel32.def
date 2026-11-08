@@ -1,0 +1,25 @@
+LIBRARY kernel32.dll
+EXPORTS
+GetModuleHandleW
+GetModuleFileNameW
+GetSystemDirectoryW
+LoadLibraryW
+GetProcAddress
+CreateThread
+Sleep
+VirtualProtect
+VirtualQuery
+VirtualAlloc
+GetSystemInfo
+GetPrivateProfileIntW
+GetPrivateProfileStringW
+CreateFileW
+WriteFile
+CloseHandle
+GetCurrentProcessId
+GetCurrentThreadId
+GetCurrentProcess
+FlushInstructionCache
+DisableThreadLibraryCalls
+GetTickCount64
+GetFileAttributesW
